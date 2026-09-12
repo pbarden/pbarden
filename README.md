@@ -8,6 +8,10 @@ framework I probably didn't need to write. Below is a tour of what's in my publi
 - **[model-trainer](https://github.com/pbarden/model-trainer)** — "Model Tea," a CPU-optimized
   language model training system with progressive-difficulty ("iterative") training, LoRA
   support, adaptive early stopping, a REST API, and a CLI.
+- **[limedrop-soup](https://github.com/pbarden/limedrop-soup)** — "Limedrop Soup OS," a
+  browser-based desktop environment whose main app is a visual, AI-enhanced workflow builder: wire
+  components together on a node canvas, run the graph, and it becomes a real app with its own icon
+  and window. Entirely client-side, no backend.
 
 ## Games & Interactive
 
