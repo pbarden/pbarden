@@ -30,6 +30,10 @@ framework I probably didn't need to write. Below is a tour of what's in my publi
 - **[comic-collector](https://github.com/pbarden/comic-collector)** — A self-hosted "Letterboxd
   for comic books": a full-stack Django app for cataloguing, rating, and browsing a personal comic
   collection, with a filterable dashboard and aggregate stats.
+- **[databoi](https://github.com/pbarden/databoi)** — A Django-based behavioral analytics
+  platform. Ingests event-level exports from analytics/marketing/CRM platforms (Adobe Analytics,
+  GA4, CRM, BigQuery), normalizes them into a canonical schema, and provides audience segmentation
+  and statistical analysis on top.
 - **[resume_builder](https://github.com/pbarden/resume_builder)** — A Python-based tool for
   building a better resume template.
 - **[newsite](https://github.com/pbarden/newsite)** — Early-stage Shopify-style storefront clone
