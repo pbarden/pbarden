@@ -12,6 +12,9 @@ framework. Below is a tour of what's in my public repos.
   browser-based desktop environment whose main app is a visual, AI-enhanced workflow builder: wire
   components together on a node canvas, run the graph, and it becomes a real app with its own icon
   and window. Entirely client-side, no backend.
+- **[vtranslate](https://github.com/pbarden/vtranslate)** — A personal, local web app for
+  learning Japanese from anime: generates dual subtitles (Japanese, romaji, English) plus
+  on-screen text pulled from video frames, with per-episode phrase guides and quizzes.
 
 ## Games & Interactive
 
