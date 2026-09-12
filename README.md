@@ -56,20 +56,6 @@ framework. Below is a tour of what's in my public repos.
 - **[MiniMath](https://github.com/pbarden/MiniMath)** — A small library of math helper functions
   in JavaScript.
 
-## Coursework & Archive
-
-Older school and coursework projects, kept around for the record:
-
-- **[c_sharp_course](https://github.com/pbarden/c_sharp_course)** — C# coursework.
-- **[Data-Programming-Course](https://github.com/pbarden/Data-Programming-Course)** — Python /
-  Ruby / Java data programming coursework.
-- **[python-course](https://github.com/pbarden/python-course)** — Python programming coursework,
-  University of Phoenix.
-- **[web_class_2](https://github.com/pbarden/web_class_2)** — Web design class assignments.
-- **[MiscWebDesign](https://github.com/pbarden/MiscWebDesign)** — Miscellaneous web design course
-  assignments.
-- **[hanakipress](https://github.com/pbarden/hanakipress)** — Source from a school project.
-
 ---
 
 Check out individual repos for more details — most have their own README with setup instructions.
