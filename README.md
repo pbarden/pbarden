@@ -1,7 +1,8 @@
 # Paul Barden
 
 I build things across a pretty wide range — AI/ML tooling, games, web apps, and the occasional
-framework. Below is a tour of what's in my public repos.
+framework. Below is a tour of what's in my public repos. Mostly I just like building and a great
+deal of my projects are just for fun.
 
 ## AI & Tooling
 
