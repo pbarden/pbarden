@@ -38,7 +38,7 @@ deal of my projects are just for fun.
 - **[comic-collector](https://github.com/pbarden/comic-collector)** — A self-hosted "Letterboxd
   for comic books": a full-stack Django app for cataloguing, rating, and browsing a personal comic
   collection, with a filterable dashboard and aggregate stats.
-- **[databoi](https://github.com/pbarden/databoi)** — A Django-based behavioral analytics
+- **[databigboi](https://github.com/pbarden/databigboi)** — A Django-based behavioral analytics
   platform. Ingests event-level exports from analytics/marketing/CRM platforms (Adobe Analytics,
   GA4, CRM, BigQuery), normalizes them into a canonical schema, and provides audience segmentation
   and statistical analysis on top.
