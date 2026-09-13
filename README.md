@@ -63,7 +63,7 @@ deal of my projects are just for fun.
 - **[MiniMath](https://github.com/pbarden/MiniMath)** — A small library of math helper functions
   in JavaScript.
 
-## Coursework & Archive
+## Coursework
 
 Older school and coursework projects, kept around for the record:
 
