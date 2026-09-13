@@ -17,6 +17,13 @@ deal of my projects are just for fun.
   learning Japanese from anime: generates dual subtitles (Japanese, romaji, English) plus
   on-screen text pulled from video frames, with per-episode phrase guides and quizzes.
 
+## Data Analysis
+
+- **[databigboi](https://github.com/pbarden/databigboi)** — A Django-based behavioral analytics
+  platform. Ingests event-level exports from analytics/marketing/CRM platforms (Adobe Analytics,
+  GA4, CRM, BigQuery), normalizes them into a canonical schema, and provides audience segmentation
+  and statistical analysis on top.
+  
 ## Games & Interactive
 
 - **[tako-rex-game-studio](https://github.com/pbarden/tako-rex-game-studio)** — Tako Rex, a 3D
@@ -38,10 +45,6 @@ deal of my projects are just for fun.
 - **[comic-collector](https://github.com/pbarden/comic-collector)** — A self-hosted "Letterboxd
   for comic books": a full-stack Django app for cataloguing, rating, and browsing a personal comic
   collection, with a filterable dashboard and aggregate stats.
-- **[databigboi](https://github.com/pbarden/databigboi)** — A Django-based behavioral analytics
-  platform. Ingests event-level exports from analytics/marketing/CRM platforms (Adobe Analytics,
-  GA4, CRM, BigQuery), normalizes them into a canonical schema, and provides audience segmentation
-  and statistical analysis on top.
 - **[resume_builder](https://github.com/pbarden/resume_builder)** — A Python-based tool for
   building a better resume template.
 - **[newsite](https://github.com/pbarden/newsite)** — Early-stage Shopify-style storefront clone
