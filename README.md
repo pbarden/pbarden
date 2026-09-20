@@ -1,9 +1,3 @@
-# Paul Barden
-
-I build things across a pretty wide range — AI/ML tooling, games, web apps, and the occasional
-framework. Below is a tour of what's in my public repos. Mostly I just like building and a great
-deal of my projects are just for fun.
-
 ## AI & Tooling
 
 - **[model-trainer](https://github.com/pbarden/model-trainer)** — "Model Tea," a CPU-optimized
@@ -72,7 +66,3 @@ Older school and coursework projects, kept around for the record:
 - **[python-course](https://github.com/pbarden/python-course)** — Python programming coursework,
   University of Phoenix.
 - **[hanakipress](https://github.com/pbarden/hanakipress)** — Source from a school project.
-
----
-
-Check out individual repos for more details — most have their own README with setup instructions.
