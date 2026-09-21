@@ -29,8 +29,7 @@
   play a curated music collection by genre.
 - **[tarot-reader](https://github.com/pbarden/tarot-reader)** — "Arcanum Magni Operis," a reading
   app for a custom 186-card alchemical tarot deck, with its own spread mechanics, a deck editor,
-  and a journal that snapshots each reading (including the sky at the moment it was saved). No
-  build step, no server, no network calls.
+  and a journal that snapshots each reading (including the sky at the moment it was saved). 
 
 ## Web Apps & Sites
 
